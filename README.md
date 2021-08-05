@@ -1,2 +1,2 @@
 # Travel
-A Static WWeb Page.
+A Static Web Page.
